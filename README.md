@@ -6,7 +6,7 @@ This repo contains code for our paper:
 
 by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu*
 
-![FuseDream](imgs/header_image.pdf?raw=true "FuseDream")
+![FuseDream](imgs/header_image.png?raw=true "FuseDream")
 
 ## Requirements
 Please use `pip` or `conda` to install the following packages:
