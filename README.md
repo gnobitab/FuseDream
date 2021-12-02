@@ -18,6 +18,8 @@ We transformed the pre-trained weights of BigGAN from TFHub to PyTorch. To save 
 
 https://drive.google.com/drive/folders/1nJ3HmgYgeA9NZr-oU-enqbYeO7zBaANs?usp=sharing
 
+Put the checkpoints into `./BigGAN_utils/weights/`
+
 Run the following command to generate images from text query:
 
 `python fusedream_generator.py --text 'YOUR TEXT' --seed YOUR_SEED`
