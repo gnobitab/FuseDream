@@ -14,9 +14,11 @@ Please use `pip` or `conda` to install the following packages:
 
 ## Getting Started
 Run the following command to generate images from text query:
+
 `python fusedream_generator.py --text 'YOUR TEXT' --seed YOUR_SEED`
 
 For example, to get an image of a blue dog:
+
 `python fusedream_generator.py --text 'A photo of a blue dog.' --seed 1234`
 
 The generated image will be stored in `./samples`
