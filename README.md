@@ -8,6 +8,9 @@ by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu*
 
 ![FuseDream](./imgs/header_img.png?raw=true "FuseDream")
 
+## Introduction
+FuseDream uses pre-trained GANs (we support BigGAN-256 and BigGAN-512 for now) and CLIP to achieve high-fidelity text-to-image generation.
+
 ## Requirements
 Please use `pip` or `conda` to install the following packages:
 `PyTorch==1.7.1, torchvision==0.8.2, lpips==0.1.4` and also the requirements from [BigGAN](https://github.com/ajbrock/BigGAN-PyTorch).
