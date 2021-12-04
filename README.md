@@ -4,7 +4,7 @@ This repo contains code for our paper:
 
 **FuseDream: Training-Free Text-to-Image Generationwith Improved CLIP+GAN Space Optimization**
 
-by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu* from UT Austin and UCSD.
+by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu* from UCSD and UT Austin.
 
 ![FuseDream](./imgs/header_img.png?raw=true "FuseDream")
 
