@@ -23,6 +23,10 @@ https://drive.google.com/drive/folders/1nJ3HmgYgeA9NZr-oU-enqbYeO7zBaANs?usp=sha
 
 Put the checkpoints into `./BigGAN_utils/weights/`
 
+Install CLIP:
+
+`pip install git+https://github.com/openai/CLIP.git`
+
 Run the following command to generate images from text query:
 
 `python fusedream_generator.py --text 'YOUR TEXT' --seed YOUR_SEED`
