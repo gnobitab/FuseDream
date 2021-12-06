@@ -53,12 +53,13 @@ url={https://openreview.net/forum?id=B1xsqj09Fm},
 
 and
 ```BibTex
-@misc{liu2021fusedream,
-      title={FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization}, 
-      author={Xingchao Liu and Chengyue Gong and Lemeng Wu and Shujian Zhang and Hao Su and Qiang Liu},
-      year={2021},
-      eprint={2112.01573},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@misc{
+liu2021fusedream,
+title={FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization}, 
+author={Xingchao Liu and Chengyue Gong and Lemeng Wu and Shujian Zhang and Hao Su and Qiang Liu},
+year={2021},
+eprint={2112.01573},
+archivePrefix={arXiv},
+primaryClass={cs.CV}
 }
 ```
