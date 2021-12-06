@@ -2,6 +2,8 @@
 
 This repo contains code for our paper ([paper link](https://arxiv.org/abs/2112.01573)):
 
+<a href="https://replicate.com/gnobitab/fusedream"><img src="https://img.shields.io/static/v1?label=Replicate&message=Demo and Docker Image&color=blue"></a>
+
 **FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**
 
 by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu* from UCSD and UT Austin.

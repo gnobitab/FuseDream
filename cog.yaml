@@ -1,0 +1,19 @@
+build:
+  gpu: true
+  python_version: "3.8"
+  system_packages:
+    - "libgl1-mesa-glx"
+    - "libglib2.0-0"
+  python_packages:
+    - "h5py==3.6.0"
+    - "ipython==7.21.0"
+    - "Pillow==8.4.0"
+    - "numpy==1.19.2"
+    - "torch==1.7.1"
+    - "torchvision==0.8.2"
+    - "scipy==1.7.3"
+    - "tqdm==4.62.3"
+    - "lpips==0.1.4"
+    - "git+https://github.com/openai/CLIP.git"
+
+predict: "predict.py:Predictor"
