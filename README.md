@@ -2,7 +2,7 @@
 
 This repo contains code for our paper ([paper link](https://arxiv.org/abs/2112.01573)):
 
-**FuseDream: Training-Free Text-to-Image Generationwith Improved CLIP+GAN Space Optimization**
+**FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization**
 
 by *Xingchao Liu, Chengyue Gong, Lemeng Wu, Shujian Zhang, Hao Su and Qiang Liu* from UCSD and UT Austin.
 
@@ -33,10 +33,14 @@ For example, to get an image of a blue dog:
 
 The generated image will be stored in `./samples`
 
+## Colab Notebook
+
+For a quick test of *FuseDream*, we provide Colab notebooks for [*FuseDream*(Single Image)](https://colab.research.google.com/drive/17qkzkoQQtzDRFaSCJQzIaNj88xjO9Rm9?usp=sharing) and *FuseDream-Composition*(TODO). Have fun!
+
 ## Citations
 If you use the code, please cite:
 
-```text
+```BibTex
 @inproceedings{
 brock2018large,
 title={Large Scale {GAN} Training for High Fidelity Natural Image Synthesis},
@@ -48,7 +52,7 @@ url={https://openreview.net/forum?id=B1xsqj09Fm},
 ```
 
 and
-```
+```BibTex
 @misc{liu2021fusedream,
       title={FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization}, 
       author={Xingchao Liu and Chengyue Gong and Lemeng Wu and Shujian Zhang and Hao Su and Qiang Liu},
