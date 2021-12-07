@@ -16,7 +16,6 @@ class Predictor(cog.Predictor):
             512: generator_512,
             256: generator_256
         }
-        pass
 
     @cog.input("sentence", type=str)
     @cog.input("init_iterations", type=int, default=300, min=100, max=500,
